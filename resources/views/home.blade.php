@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -20,4 +21,16 @@
         </div>
     </div>
 </div>
+<br>
+<br>
+<br>
+<div class="h-100 d-flex align-items-center justify-content-center">
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Tugas PBO</h5>
+        <p class="card-text">Membuat auth dan dashboard dengan koneksi git</p>
+        <a href="#" class="btn btn-primary">lihat Sesuatu</a>
+      </div>
+    </div>
+  </div>
 @endsection
