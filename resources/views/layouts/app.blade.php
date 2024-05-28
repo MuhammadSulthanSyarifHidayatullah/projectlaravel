@@ -33,7 +33,7 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 p">
                         <li class="nav-item">
-                          <a class="nav-link" aria-current="page" href="#">Barang</a>
+                          <a class="nav-link" aria-current="page" href="{{ route('barang') }}">Barang</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" href="#">Member</a>
